@@ -1,0 +1,14 @@
+/home/behike56/01-Projects/om-api-server/api-server/target/rls/debug/deps/awc-c61689b687e2678d.rmeta: /home/behike56/.cargo/registry/src/github.com-1ecc6299db9ec823/awc-2.0.3/src/lib.rs /home/behike56/.cargo/registry/src/github.com-1ecc6299db9ec823/awc-2.0.3/src/builder.rs /home/behike56/.cargo/registry/src/github.com-1ecc6299db9ec823/awc-2.0.3/src/connect.rs /home/behike56/.cargo/registry/src/github.com-1ecc6299db9ec823/awc-2.0.3/src/error.rs /home/behike56/.cargo/registry/src/github.com-1ecc6299db9ec823/awc-2.0.3/src/frozen.rs /home/behike56/.cargo/registry/src/github.com-1ecc6299db9ec823/awc-2.0.3/src/request.rs /home/behike56/.cargo/registry/src/github.com-1ecc6299db9ec823/awc-2.0.3/src/response.rs /home/behike56/.cargo/registry/src/github.com-1ecc6299db9ec823/awc-2.0.3/src/sender.rs /home/behike56/.cargo/registry/src/github.com-1ecc6299db9ec823/awc-2.0.3/src/test.rs /home/behike56/.cargo/registry/src/github.com-1ecc6299db9ec823/awc-2.0.3/src/ws.rs
+
+/home/behike56/01-Projects/om-api-server/api-server/target/rls/debug/deps/awc-c61689b687e2678d.d: /home/behike56/.cargo/registry/src/github.com-1ecc6299db9ec823/awc-2.0.3/src/lib.rs /home/behike56/.cargo/registry/src/github.com-1ecc6299db9ec823/awc-2.0.3/src/builder.rs /home/behike56/.cargo/registry/src/github.com-1ecc6299db9ec823/awc-2.0.3/src/connect.rs /home/behike56/.cargo/registry/src/github.com-1ecc6299db9ec823/awc-2.0.3/src/error.rs /home/behike56/.cargo/registry/src/github.com-1ecc6299db9ec823/awc-2.0.3/src/frozen.rs /home/behike56/.cargo/registry/src/github.com-1ecc6299db9ec823/awc-2.0.3/src/request.rs /home/behike56/.cargo/registry/src/github.com-1ecc6299db9ec823/awc-2.0.3/src/response.rs /home/behike56/.cargo/registry/src/github.com-1ecc6299db9ec823/awc-2.0.3/src/sender.rs /home/behike56/.cargo/registry/src/github.com-1ecc6299db9ec823/awc-2.0.3/src/test.rs /home/behike56/.cargo/registry/src/github.com-1ecc6299db9ec823/awc-2.0.3/src/ws.rs
+
+/home/behike56/.cargo/registry/src/github.com-1ecc6299db9ec823/awc-2.0.3/src/lib.rs:
+/home/behike56/.cargo/registry/src/github.com-1ecc6299db9ec823/awc-2.0.3/src/builder.rs:
+/home/behike56/.cargo/registry/src/github.com-1ecc6299db9ec823/awc-2.0.3/src/connect.rs:
+/home/behike56/.cargo/registry/src/github.com-1ecc6299db9ec823/awc-2.0.3/src/error.rs:
+/home/behike56/.cargo/registry/src/github.com-1ecc6299db9ec823/awc-2.0.3/src/frozen.rs:
+/home/behike56/.cargo/registry/src/github.com-1ecc6299db9ec823/awc-2.0.3/src/request.rs:
+/home/behike56/.cargo/registry/src/github.com-1ecc6299db9ec823/awc-2.0.3/src/response.rs:
+/home/behike56/.cargo/registry/src/github.com-1ecc6299db9ec823/awc-2.0.3/src/sender.rs:
+/home/behike56/.cargo/registry/src/github.com-1ecc6299db9ec823/awc-2.0.3/src/test.rs:
+/home/behike56/.cargo/registry/src/github.com-1ecc6299db9ec823/awc-2.0.3/src/ws.rs:
