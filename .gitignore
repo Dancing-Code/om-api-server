@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 debug/
+=======
+api-server/target/debug/
+api-server/target/rls/debug/
+>>>>>>> 3da05fbf0fd37ed6b6fc4f3826cbc760a2ac6d71
