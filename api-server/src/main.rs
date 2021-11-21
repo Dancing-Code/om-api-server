@@ -1,4 +1,5 @@
 use actix_web::{get, web, App, HttpResponse, HttpServer, ResponseError};
+use askama::Template;
 use r2d2::Pool;
 use r2d2_sqlite::SqliteConnectionManager;
 use rusqlite::params;
