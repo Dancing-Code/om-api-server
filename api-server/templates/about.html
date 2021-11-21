@@ -1,5 +1,5 @@
 <!doctype html>
-<html>
+<html class="no-js" lang="">
     <head>
         <title></title>
         <meta charset="utf-8" />
@@ -24,28 +24,7 @@
                 </div>
             </div>
             <div class="content pure-u-1 pure-u-md-3-4">
-                <div>
-                    <div class="posts">
-                        <h1 class="content-subhead">TODOs</h1>
-                        {% for entry in entries %}
-                        <div>
-                            <div>id: {{ entry.id }}, text: {{ entry.text }}</div>
-                            <form action="/delete" method="post">
-                                <input type="hidden" name="id" value="{{ entry.id }}">
-                                <button class="pure-button pure-button-primary">delete</button>
-                            </form>
-                        </div>
-                        {% endfor %}
-                    </div>
-                </div>
-                <form action="/add" method="post">
-                    <div>
-                        <input name="text">
-                    </div>
-                    <div>
-                        <button class="pure-button pure-button-primary">add</button>
-                    </div>
-                </form>
+                <h1>About</h1>
                 <div class="footer">
                     <div class="pure-menu pure-menu-horizontal">
                         <ul>
