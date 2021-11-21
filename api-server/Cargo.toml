@@ -10,3 +10,6 @@ actix-web = "3.3.2"
 actix-rt = "1.1.1" #"2.4.0"はエラーが出る 2021/11/19。
 thiserror = "1.0.30"
 askama = "0.10.5"
+rusqlite = { version = "0.26.1", features=["bundled"] }
+r2d2 = "0.8.9"
+r2d2_sqlite = "0.19.0"
