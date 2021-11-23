@@ -1,4 +1,2 @@
-debug/
 api-server/target/
-api-server/target/debug/
-api-server/target/rls/debug/
+todo.db
